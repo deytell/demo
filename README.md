@@ -5,4 +5,4 @@ This is a simple readme file
 #Head line 2
 
 
-THIS IS FROM MASTER CHANGE
+THIS will cause an Merge conflict
