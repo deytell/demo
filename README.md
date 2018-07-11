@@ -5,4 +5,4 @@ This is a simple readme file
 #Head line 2
 
 
-TEST DIFF from branch
+THIS will cause an Merge conflict
